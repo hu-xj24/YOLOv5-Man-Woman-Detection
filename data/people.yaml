@@ -1,0 +1,6 @@
+train: E:/Desktop/yolov5/dataset_merged/images/train
+val: E:/Desktop/yolov5/dataset_merged/images/val
+test: E:/Desktop/yolov5/dataset_merged/images/test
+
+nc: 2
+names: ["man", "woman"]
